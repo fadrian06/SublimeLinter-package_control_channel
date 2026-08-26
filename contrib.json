@@ -1015,6 +1015,17 @@
             ]
         },
         {
+            "name": "SublimeLinter-contrib-oxlint",
+            "details": "https://github.com/IPWright83/SublimeLinter-contrib-oxlint",
+            "labels": ["linting", "SublimeLinter", "javascript", "typescript"],
+            "releases": [
+                {
+                    "sublime_text": ">3000",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "SublimeLinter-contrib-perl",
             "details": "https://github.com/oschwald/SublimeLinter-perl",
             "labels": ["linting", "SublimeLinter", "perl"],
